@@ -68,7 +68,7 @@ $ python -m pip install -U gallery-dl
 `termux-clipboard-get`;
 - `python`: necessário para usarmos o gerenciador de pacotes `pip`;
 - `gallery-dl`: o triunfo de nossa gambiarra - um programa que baixa
-imagens de vários websites;
+imagens e vídeos de vários websites;
 
 Após baixar os pacotes, devemos permitir o acesso do Termux ao armazenamento
 do seu Android:
