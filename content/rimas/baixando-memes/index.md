@@ -1,7 +1,6 @@
 +++
 title = "Baixando memes no Android com apenas um botão"
-date = "2024-05-19T19:39:54-03:00"
-draft = true
+date = "2024-05-26T12:45:54-03:00"
 description = "Minha gambiarra pra baixar memes usando termux, scripts e widgets."
 
 tags = ["gambiarra","termux","android","shell scripting","memes"]
