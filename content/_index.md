@@ -13,7 +13,7 @@ suas andanças?
 
 Em minha fortaleza dos céus - construída com [Hugo](https://gohugo.io/) e
 [BearBlog](https://github.com/janraasch/hugo-bearblog), resultando em um dos 
-ebsites mais rápidos que existem nesta internet obtusa e decadente - eu começo
+websites mais rápidos que existem nesta internet obtusa e decadente - eu começo
 a escrever... 
 
 </br>
