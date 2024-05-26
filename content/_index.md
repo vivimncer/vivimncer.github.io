@@ -7,11 +7,14 @@ title = ""
 
 # Máquina de escrita vitoriana
 
-Um ilhéu e vagante eletrônico adquire sede de criação e começa sua jornada 
-narrando [fragmentos](https://vivimancer.xyz/rimas) de suas andanças para a 
-web - em sua própria fortaleza dos céus, construída com [Hugo](https://gohugo.io/)
-e [BearBlog](https://github.com/janraasch/hugo-bearblog), resultando em um dos 
-websites mais rápidos que existem nesta internet obtusa e decadente. 💫💜
+O que acontece quando um ilhéu e vagante eletrônico adquire vontade de criação
+e começa sua jornada narrando [fragmentos](https://vivimancer.xyz/rimas) de
+suas andanças?
+
+Em minha fortaleza dos céus - construída com [Hugo](https://gohugo.io/) e
+[BearBlog](https://github.com/janraasch/hugo-bearblog), resultando em um dos 
+ebsites mais rápidos que existem nesta internet obtusa e decadente - eu começo
+a escrever... 
 
 </br>
 <a href="https://instagram.com/vivimancer_" style="text-decoration:none">
