@@ -7,14 +7,10 @@ title = ""
 
 # Máquina de escrita vitoriana
 
-O que acontece quando um ilhéu e vagante eletrônico adquire vontade de criação
-e começa sua jornada narrando [fragmentos](https://vivimancer.xyz/rimas) de
-suas andanças?
+> Within the walls of these chambers I could find respite.  And, if I so chose, resume my journey when my weariness abated.<br>
+> — <cite>Kain</cite>
 
-Em minha fortaleza dos céus - construída com [Hugo](https://gohugo.io/) e
-[BearBlog](https://github.com/janraasch/hugo-bearblog), resultando em um dos 
-websites mais rápidos que existem nesta internet obtusa e decadente - eu começo
-a escrever... 
+<img src="/images/blackmage.gif" alt="Black Mage de Final Fantasy I" style="image-rendering: pixelated;"/>
 
 </br>
 <a href="https://instagram.com/vivimancer_" style="text-decoration:none">
@@ -35,10 +31,3 @@ a escrever...
 <a href="mailto:vivi@vivimachine.com" style="text-decoration:none">
   <img src="/icons/email.svg" alt="Email" width="25"/>
 </a>
-
----
-
-> Within the walls of these chambers I could find respite.  And, if I so chose, resume my journey when my weariness abated.<br>
-> — <cite>Kain</cite>
-
-<img src="/images/blackmage.gif" alt="Black Mage de Final Fantasy I" style="image-rendering: pixelated;"/>
