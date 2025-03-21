@@ -12,7 +12,8 @@ title = ""
 
 <img src="/images/blackmage.gif" alt="Black Mage de Final Fantasy I" style="image-rendering: pixelated;"/>
 
-</br>
+---
+
 <a href="https://instagram.com/vivimancer_" style="text-decoration:none">
   <img src="/icons/instagram.svg" alt="Instagram" width="25"/>
 </a>
